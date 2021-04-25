@@ -17,7 +17,7 @@ by _Oren Tirosh_.
 
 ---
 
-DISCLAIMER: The generated names are not cryptographically secure and shouldn't be used as such.
+DISCLAIMER: The process of generating names is not cryptographically secure and the names shouldn't be used as such.
 
 NOTE: [A little copying is better than a little dependency](https://go-proverbs.github.io/) so you
 might be better of with just copying these few files into your project 🤷‍.
